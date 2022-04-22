@@ -1,5 +1,6 @@
 # Hackintosh macOS Monterey 12.3.1
 ![About This Mac](https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2015.38.54.png)
+
 **This is personal EFI for the installation of macOS 12.3.1 Monterey on an ASUS H310M-K R2.0 motherboard**
 
 ## Hardware Configuration
@@ -25,3 +26,6 @@ This is my personal home project. I have no responsibility for any damage caused
 
 ### WARNINGS
 **Before using EFI remember that it is necessary to generate a serial number with GenSMBIOS for iMac19.1 and apply the serials generated with ProperTree**.
+
+#### Pictures
+- [Screenshot]()
