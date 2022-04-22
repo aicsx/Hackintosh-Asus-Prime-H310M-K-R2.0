@@ -23,9 +23,7 @@
 If like in my case your video card does not have HDMI output please use DVI. VGA causes black lock screen. It is not a tutorial. The steps and things to do are not mentioned. Please read the official Dortania's guide.
 ##### Disclaimer
 This is my personal home project. I have no responsibility for any damage caused by the release of this project. 
-
 ### WARNINGS
 **Before using EFI remember that it is necessary to generate a serial number with GenSMBIOS for iMac19.1 and apply the serials generated with ProperTree**.
-
 #### Pictures
-- [Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2022.10.01.png)
