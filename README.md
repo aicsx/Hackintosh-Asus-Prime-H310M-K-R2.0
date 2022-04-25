@@ -9,6 +9,7 @@
 - Realtek® RTL8111H, 1 x Gigabit LAN
 - Realtek® ALC887 8-Channel High Definition Audio CODEC 
 - 8GB 2666Mhz Kingston DDR4 RAM
+- Crucial BX500 240 GB Serial ATA III Solid State Drive
 - 500GB Seagate Barracuda ST500DM002 SATA 
 - Intel UHD Graphics 630
 
@@ -21,6 +22,8 @@
 
 #### Note
 If like in my case your video card does not have HDMI output please use DVI. VGA causes black lock screen. It is not a tutorial. The steps and things to do are not mentioned. Please read the official Dortania's guide.
+- **EFI** is first step **DEBUG** with boot -v enable. Everything works except the screen. It does not turn on again after suspension. 
+- **EFI-RELEASE** is final version after tests without boot kernel messages "only apple logo". Rename it in EFI if you want use it. Fix added in config.plist to resume screen after sleep mode.    
 ##### Disclaimer
 This is my personal home project. I have no responsibility for any damage caused by the release of this project. 
 ### WARNINGS
