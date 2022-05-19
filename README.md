@@ -30,3 +30,8 @@ This is my personal home project. I have no responsibility for any damage caused
 **Before using EFI remember that it is necessary to generate a serial number with GenSMBIOS for iMac19.1 and apply the serials generated with ProperTree**.
 #### Pictures
 ![Screenshot](https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Schermata%202022-04-22%20alle%2022.10.01.png)
+
+## update Monterey 12.4
+I update at latest release xcode,python and systemOS. After 24 Min It all ok! you can upgrade with my EFI
+### Bugfix 
+Latest update enable FaceTime and iMessages. Work full!
