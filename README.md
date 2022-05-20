@@ -33,6 +33,7 @@ This is my personal home project. I have no responsibility for any damage caused
 
 ## update Monterey 12.4
 ![Update](https://raw.githubusercontent.com/aicsx/Hackintosh-Asus-Prime-H310M-K-R2.0/main/screenshot/Update.png)
+
 I have updated to the latest version xcode, python and macOS Monterey 12.4. After 24 minutes everything is ok! you can upgrade without additional steps.
 ### Bugfix 
 The latest update enables FaceTime and iMessage. Work fully!
